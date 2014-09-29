@@ -130,6 +130,8 @@ blockquote cite {
     display: block;
     @include body-font-bold;
     text-alighn: right;
+    margin: 0 40px 0 0;
+    padding: 0 40px 0 0;
 }
 
 dt {
